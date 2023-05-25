@@ -5,9 +5,17 @@
   grid-column-end: 3;
   margin: 0;
   padding: 0;
-  max-width: 484px;
-  min-width: 384px;
+  width: 483px;
   height: 313px;
-  background: url(../../../images/adaptation.png) no-repeat bottom / 484px 252px,
+  background: url(../../../images/adaptation.png) no-repeat bottom / 483px 252px,
               url(../../../images/backAdaptation.svg) no-repeat;
+}
+
+@media screen and (max-width: 1670px) {
+  .about-us__adaptation {
+    width: 400px;
+    height: 300px;
+    background: url(../../../images/adaptation.png) no-repeat bottom / 400px 200px,
+                url(../../../images/backAdaptation.svg) no-repeat top / 400px 300px;
+  }
 }

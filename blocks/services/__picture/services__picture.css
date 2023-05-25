@@ -8,3 +8,10 @@
   width: 579px;
   height: 610px;
 }
+
+@media screen and (max-width: 1670px) {
+  .services__picture {
+    width: 490px;
+    height: 610px;
+  }
+}
