@@ -18,3 +18,9 @@
     padding-left: 100px;
   }
 }
+
+@media screen and (max-width: 1590px) {
+  .services__box {
+    padding-left: 70px;
+  }
+}

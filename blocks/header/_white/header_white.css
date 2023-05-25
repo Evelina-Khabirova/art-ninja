@@ -1,5 +1,15 @@
 .header_white {
   background: url(../../../images/headerLine.png) no-repeat top 25px center / 98% 909px,
               url(../../../images/headerWhite.png) no-repeat top / 100% 140px;
-  color: #252A36;;
+  color: #252A36;
+  animation: white 1s ease;
+}
+
+@keyframes white {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }

@@ -21,3 +21,9 @@
     padding-left: 100px;
   }
 }
+
+@media screen and (max-width: 1590px) {
+  .services__title {
+    padding-left: 70px;
+  }
+}

@@ -19,3 +19,11 @@
                 url(../../../images/backJob.svg) no-repeat;
   }
 }
+
+@media screen and (max-width: 1590px) {
+  .about-us__job {
+    width: 500px;
+    background: url(../../../images/paint.png) no-repeat top 45% right 0 / 300px 118px,
+                url(../../../images/backJob.svg) no-repeat;
+  }
+}

@@ -11,3 +11,9 @@
     padding-left: 55px;
   }
 }
+
+@media screen and (max-width: 1590px) {
+  .services {
+    padding-left: 25px;
+  }
+}
