@@ -1,0 +1,16 @@
+.about-us__ninja-img {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 1;
+  margin: 109px 21px 0 0;
+  padding: 0;
+  width: 268px;
+  height: 595px;
+}
+
+@media screen and (max-width: 2550px) {
+  .about-us__ninja-img {
+    margin-right: 0;
+  }
+}

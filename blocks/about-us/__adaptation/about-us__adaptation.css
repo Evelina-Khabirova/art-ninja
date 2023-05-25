@@ -1,0 +1,13 @@
+.about-us__adaptation {
+  grid-row-start: 2;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 3;
+  margin: 0;
+  padding: 0;
+  max-width: 484px;
+  min-width: 384px;
+  height: 313px;
+  background: url(../../../images/adaptation.png) no-repeat bottom / 484px 252px,
+              url(../../../images/backAdaptation.svg) no-repeat;
+}

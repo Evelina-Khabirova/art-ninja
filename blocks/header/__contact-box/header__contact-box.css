@@ -1,0 +1,6 @@
+.header__contact-box {
+  margin: 42px 0 0;
+  padding: 0;
+  display: flex;
+  gap: 32px;
+}

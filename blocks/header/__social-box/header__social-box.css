@@ -1,0 +1,6 @@
+.header__social-box {
+  margin: 42px 147px 0 127px;
+  padding: 0;
+  display: flex;
+  gap: 10px;
+}

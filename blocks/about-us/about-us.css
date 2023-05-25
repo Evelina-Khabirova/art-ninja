@@ -1,0 +1,13 @@
+.about-us {
+  margin: 0;
+  padding: 109px 17px 108px 112px;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(min-content, max-content));
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+}
+
+@media screen and (max-width: 2550px) {
+  .about-us {
+    padding-left: 80px;
+  }
+}

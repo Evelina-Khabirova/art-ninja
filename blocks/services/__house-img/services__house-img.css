@@ -1,0 +1,10 @@
+.services__house-img {
+  grid-row-start: 1;
+  grid-row-end: 1;
+  grid-column-start: 1;
+  grid-column-end: 1;
+  margin: 0 15px 0 0;
+  padding: 0;
+  width: 334px;
+  height: 219px;
+}

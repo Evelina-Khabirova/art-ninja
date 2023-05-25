@@ -1,0 +1,10 @@
+.services__picture {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 2;
+  margin: 74px 0 0 59px;
+  padding: 0;
+  width: 579px;
+  height: 610px;
+}

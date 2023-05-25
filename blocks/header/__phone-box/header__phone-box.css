@@ -1,0 +1,9 @@
+.header__phone-box {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, max-content));
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  column-gap: 16px;
+  row-gap: 3px;
+}

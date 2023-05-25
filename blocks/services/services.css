@@ -1,0 +1,13 @@
+.services {
+  margin: 0;
+  padding: 0 0 0 87px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, max-content));
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+}
+
+@media screen and (max-width: 2550px) {
+  .services {
+    padding-left: 55px;
+  }
+}

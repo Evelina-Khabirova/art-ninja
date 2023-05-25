@@ -1,0 +1,15 @@
+.services__page {
+  margin: 0;
+  padding: 0;
+  width: 67px;
+  height: 45px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FF2140;
+  background: url(../../../images/page.svg) no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,8 @@
+.header__email-link {
+  margin: 0 40px 0 0;
+  padding: 0;
+  background: url(../../../images/emailBack.svg) no-repeat;
+  min-width: 140px;
+  display: flex;
+  text-decoration: none;
+}

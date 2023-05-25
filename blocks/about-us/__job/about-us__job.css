@@ -1,0 +1,21 @@
+.about-us__job {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 4;
+  grid-column-end: 4;
+  margin: 0;
+  padding: 0;
+  width: 700px;
+  height: 604px;
+  background: url(../../../images/paint.png) no-repeat top 45% right 0,
+              url(../../../images/backJob.svg) no-repeat;
+}
+
+@media screen and (max-width: 2550px) {
+  .about-us__job {
+    width: 550px;
+    height: 504px;
+    background: url(../../../images/paint.png) no-repeat top 45% right 0 / 386px 118px,
+                url(../../../images/backJob.svg) no-repeat;
+  }
+}

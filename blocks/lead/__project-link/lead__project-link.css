@@ -1,0 +1,17 @@
+.lead__project-link {
+  margin: 0 26px 0 0;
+  padding: 0;
+  width: 232px;
+  height: 59px;
+  background: url(../../../images/projectBtn.svg) no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.lead__project-link:hover {
+  opacity: .7;
+}

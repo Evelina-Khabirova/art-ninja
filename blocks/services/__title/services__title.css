@@ -1,0 +1,23 @@
+.services__title {
+  grid-row-start: 1;
+  grid-row-end: 1;
+  grid-column-start: 1;
+  grid-column-end: 1;
+  display: block;
+  margin: 0;
+  padding: 0 0 46px 125px;
+  font-family: 'Molot';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+  color: #252A36;
+  border-right: 1px solid rgba(118, 118, 118, 0.24);
+  border-bottom: 1px solid rgba(118, 118, 118, 0.24);
+}
+
+@media screen and (max-width: 2550px) {
+  .services__title {
+    padding-left: 100px;
+  }
+}

@@ -1,0 +1,15 @@
+.lead__title {
+  margin: 0;
+  padding: 0;
+  font-family: 'Molot';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 129px;
+}
+
+@media screen and (max-width: 2550px) {
+  .lead__title {
+    font-size: 101px;
+  }
+}

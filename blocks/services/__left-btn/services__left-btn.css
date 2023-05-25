@@ -1,0 +1,11 @@
+.services__left-btn {
+  border: 0;
+  background: none;
+  margin: 0 5px 0 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.services__left-btn:hover {
+  opacity: .7;
+}

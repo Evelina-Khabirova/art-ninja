@@ -1,0 +1,17 @@
+.about-us__styles {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 2;
+  margin: 82px 23px 0 0;
+  padding: 0;
+  width: 295px;
+  height: 604px;
+  background: url(../../../images/backStyles.svg) no-repeat;
+}
+
+@media screen and (max-width: 2250px) {
+  .about-us__styles {
+    margin-right: 3px;
+  }
+}

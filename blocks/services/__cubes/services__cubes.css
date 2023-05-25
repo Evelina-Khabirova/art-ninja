@@ -1,0 +1,10 @@
+.services__cubes {
+  grid-row-start: 3;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 2;
+  margin: 0 0 0 34px;
+  padding: 0;
+  width: 445px;
+  height: 233px;
+}

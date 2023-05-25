@@ -1,0 +1,13 @@
+.about-us__job-img {
+  margin: 0 0 0 29px;
+  padding: 0;
+  width: 405px;
+  height: 475px;
+}
+
+@media screen and (max-width: 2550px) {
+  .about-us__job-img {
+    width: 305px;
+    height: 375px;
+  }
+}

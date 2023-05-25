@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Molot';
+  font-style: bold;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./Molot.otf") format("opentype");
+}
