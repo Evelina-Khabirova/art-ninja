@@ -8,3 +8,10 @@
   line-height: 22px;
   color: #252A36;
 }
+
+@media screen and (max-width: 1530px) {
+  .services__text {
+    font-size: 13px;
+    width: 140px;
+  }
+}

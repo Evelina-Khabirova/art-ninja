@@ -4,3 +4,10 @@
   width: 295px;
   height: 473px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__styles-img {
+    width: 250px;
+    height: 380px;
+  }
+}

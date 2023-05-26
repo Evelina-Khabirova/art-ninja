@@ -2,3 +2,9 @@
   margin: 68px auto 0 27px;
   width: 204px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__text_adaptation {
+    width: 120px;
+  }
+}

@@ -8,3 +8,10 @@
   width: 445px;
   height: 233px;
 }
+
+@media screen and (max-width: 1530px) {
+  .services__cubes {
+    width: 400px;
+    height: 200px;
+  }
+}

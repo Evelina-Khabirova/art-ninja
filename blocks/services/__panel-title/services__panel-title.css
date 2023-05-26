@@ -8,3 +8,10 @@
   line-height: 38px;
   color: #252A36;
 }
+
+@media screen and (max-width: 1530px) {
+  .services__panel-title {
+    font-size: 24px;
+    width: 180px;
+  }
+}

@@ -2,3 +2,10 @@
   margin: 51px auto 14px 20px;
   width: 225px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__text_styles {
+    margin-top: 40px;
+    width: 140px;
+  }
+}

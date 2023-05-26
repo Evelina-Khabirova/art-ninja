@@ -5,3 +5,10 @@
   width: 348px;
   height: 302px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__art-object-img {
+    width: 300px;
+    height: 250px;
+  }
+}

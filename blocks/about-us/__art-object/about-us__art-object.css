@@ -18,3 +18,11 @@
     background: url(../../../images/backArtObject.svg) no-repeat top / 400px 300px;
   }
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__art-object {
+    width: 350px;
+    height: 250px;
+    background: url(../../../images/backArtObject.svg) no-repeat top / 350px 250px;
+  }
+}

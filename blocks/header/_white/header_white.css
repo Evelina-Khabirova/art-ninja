@@ -2,7 +2,7 @@
   background: url(../../../images/headerLine.png) no-repeat top 25px center / 98% 909px,
               url(../../../images/headerWhite.png) no-repeat top / 100% 140px;
   color: #252A36;
-  animation: white 1s ease;
+  animation: white 2s ease;
 }
 
 @keyframes white {

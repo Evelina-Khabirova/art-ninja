@@ -2,3 +2,9 @@
   margin: 37px auto 0 41px;
   width: 312px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__text_art-object {
+    width: 200px;
+  }
+}

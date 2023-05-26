@@ -6,3 +6,9 @@
   margin: 0;
   padding: 0 0 78px 40px;
 }
+
+@media screen and (max-width: 1530px) {
+  .services__panel-box {
+    padding-bottom: 50px;
+  }
+}
