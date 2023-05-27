@@ -2,14 +2,14 @@
   background: url(../../../images/headerLine.png) no-repeat top 25px center / 98% 909px,
               url(../../../images/headerWhite.png) no-repeat top / cover;
   color: #252A36;
-  animation: white 2s ease;
+  animation: whiteAni 2s ease;
 }
 
-@keyframes white {
+@keyframes whiteAni {
   0% {
-    opacity: 0;
+    background: none;
   }
   100% {
-    opacity: 1;
+    background: #fff;
   }
 }

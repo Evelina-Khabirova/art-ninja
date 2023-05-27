@@ -1,0 +1,31 @@
+.lead_dark {
+  background: url(../../../images/whiteLineSmall.svg) no-repeat bottom 2% right 5%,
+              url(../../../images/whiteLineCorner.svg) no-repeat bottom 2% right 1%,
+              url(../../../images/redLineHorizontal.svg) no-repeat bottom 2% left 10%,
+              url(../../../images/redLineVertical.svg) no-repeat top 57% right 1.9%,
+              url(../../../images/frame.png) no-repeat center center / 98% 909px,
+              #000;
+  animation: darkkAni 2s ease;
+}
+
+@keyframes darkAni {
+  0% {
+    background: url(../../../images/star.svg) no-repeat top 18% left 32%,
+              url(../../images/star.svg) no-repeat top 25% right 8%,
+              url(../../../images/star.svg) no-repeat bottom 30% left 8%,
+              url(../../../images/whiteLineSmall.svg) no-repeat bottom 2% right 5%,
+              url(../../../images/whiteLineCorner.svg) no-repeat bottom 2% right 1%,
+              url(../../../images/redLineHorizontal.svg) no-repeat bottom 2% left 10%,
+              url(../../../images/redLineVertical.svg) no-repeat top 57% right 1.9%,
+              url(../../../images/frame.png) no-repeat center center / 98% 909px,
+              url(../../../images/Rox.png) no-repeat top;
+    opacity: 1;
+  }
+  50% {
+    background: #000;
+    opacity: .7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
