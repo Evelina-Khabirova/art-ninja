@@ -4,3 +4,9 @@
   display: flex;
   align-items: center;
 }
+
+@media screen and (max-width: 1270px) {
+  .lead__project-box {
+    margin-left: 390px;
+  }
+}

@@ -23,3 +23,10 @@
     padding-left: 70px;
   }
 }
+
+@media screen and (max-width: 1360px) {
+  .services__box {
+    padding-left: 20px;
+    padding-top: 30px;
+  }
+}

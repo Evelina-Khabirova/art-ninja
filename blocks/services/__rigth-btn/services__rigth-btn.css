@@ -4,8 +4,19 @@
   margin: 0;
   padding: 0;
   cursor: pointer;
+  width: 61px;
+  height: 61px;
+  background: url(../../../images/rigthBtn.svg) no-repeat center / 61px 61px;
 }
 
 .services__rigth-btn:hover {
   opacity: .7;
+}
+
+@media screen and (max-width: 1270px) {
+  .services__rigth-btn {
+    width: 40px;
+    height: 40px;
+    background: url(../../../images/rigthBtn.svg) no-repeat center / 40px 40px;
+  }
 }

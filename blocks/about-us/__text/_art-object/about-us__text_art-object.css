@@ -8,3 +8,9 @@
     width: 200px;
   }
 }
+
+@media screen and (max-width: 1270px) {
+  .about-us__text_art-object {
+    margin-top: 20px;
+  }
+}

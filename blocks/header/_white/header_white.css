@@ -1,6 +1,6 @@
 .header_white {
   background: url(../../../images/headerLine.png) no-repeat top 25px center / 98% 909px,
-              url(../../../images/headerWhite.png) no-repeat top / 100% 140px;
+              url(../../../images/headerWhite.png) no-repeat top / cover;
   color: #252A36;
   animation: white 2s ease;
 }

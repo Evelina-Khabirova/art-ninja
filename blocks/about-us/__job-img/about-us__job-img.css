@@ -11,3 +11,10 @@
     height: 375px;
   }
 }
+
+@media screen and (max-width: 1360px) {
+  .about-us__job-img {
+    width: 280px;
+    height: 330px;
+  }
+}

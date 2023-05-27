@@ -9,6 +9,7 @@
   height: 604px;
   background: url(../../../images/paint.png) no-repeat top 45% right 0,
               url(../../../images/backJob.svg) no-repeat;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 2550px) {
@@ -25,5 +26,14 @@
     width: 500px;
     background: url(../../../images/paint.png) no-repeat top 45% right 0 / 300px 118px,
                 url(../../../images/backJob.svg) no-repeat;
+  }
+}
+
+@media screen and (max-width: 1360px) {
+  .about-us__job {
+    width: 430px;
+    height: 454px;
+    background: url(../../../images/paint.png) no-repeat top 50% right 0 / 250px 118px,
+                url(../../../images/backJob.svg) no-repeat top left / 230px;
   }
 }

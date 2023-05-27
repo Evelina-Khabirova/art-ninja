@@ -17,3 +17,9 @@
     padding-left: 40px;
   }
 }
+
+@media screen and (max-width: 1270px) {
+  .about-us {
+    padding-left: 10px;
+  }
+}

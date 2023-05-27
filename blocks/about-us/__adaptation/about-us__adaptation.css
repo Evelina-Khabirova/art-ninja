@@ -22,9 +22,18 @@
 
 @media screen and (max-width: 1530px) {
   .about-us__adaptation {
-    width: 350px;
+    width: 340px;
     height: 250px;
-    background: url(../../../images/adaptation.png) no-repeat bottom / 350px 170px,
-                url(../../../images/backAdaptation.svg) no-repeat top / 350px 250px;
+    background: url(../../../images/adaptation.png) no-repeat bottom / 340px 170px,
+                url(../../../images/backAdaptation.svg) no-repeat top / 340px 250px;
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .about-us__adaptation {
+    width: 300px;
+    height: 200px;
+    background: url(../../../images/adaptation.png) no-repeat bottom / 300px 150px,
+                url(../../../images/backAdaptation.svg) no-repeat top / 300px 200px;
   }
 }

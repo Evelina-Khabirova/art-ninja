@@ -8,8 +8,17 @@
   font-size: 14px;
   line-height: 17px;
   color: #FF2140;
-  background: url(../../../images/page.svg) no-repeat;
+  background: url(../../../images/page.svg) no-repeat center / 67px 45px;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+@media screen and (max-width: 1270px) {
+  .services__page {
+    font-size: 13px;
+    width: 47px;
+    height: 35px;
+    background: url(../../../images/page.svg) no-repeat center / 47px 35px;
+  }
 }

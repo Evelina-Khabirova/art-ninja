@@ -15,3 +15,16 @@
     height: 200px;
   }
 }
+
+@media screen and (max-width: 1360px) {
+  .services__cubes {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .services__cubes {
+    width: 300px;
+    height: 150px;
+  }
+}

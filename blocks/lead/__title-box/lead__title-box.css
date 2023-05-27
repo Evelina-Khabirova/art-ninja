@@ -2,3 +2,9 @@
   margin: 0;
   padding: 421px 0 0 349px;
 }
+
+@media screen and (max-width: 1270px) {
+  .lead__title-box {
+    padding-left: 200px;
+  }
+}

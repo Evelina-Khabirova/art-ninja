@@ -2,3 +2,9 @@
   margin: 38px auto 18px 57px;
   width: 204px;
 }
+
+@media screen and (max-width: 1530px) {
+  .about-us__text_job {
+    width: 140px;
+  }
+}

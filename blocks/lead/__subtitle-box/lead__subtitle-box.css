@@ -4,3 +4,9 @@
   display: flex;
   gap: 18px;
 }
+
+@media screen and (max-width: 1270px) {
+  .lead__subtitle-box {
+    margin-left: 333px;
+  }
+}
